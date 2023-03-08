@@ -1,0 +1,15 @@
+# esp-idf default build directory
+build
+
+# vim temp files
+*.swp
+
+*.o
+*.pyc
+
+# VS code settings
+.vscode/
+
+# MAC directory files
+.DS_Store
+ 
